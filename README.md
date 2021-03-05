@@ -1,8 +1,8 @@
 [![Andrew's GitHub Banner](./assets/GitHubBanner.gif)](https://andrewcase.dev/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/AndrewC0128/AndrewC0128)](https://andrewcase.dev/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewcase1/)![Resume](https://img.shields.io/github/size/AndrewC0128/PersonalWebsiteReact/public/Resume_ACASE.pdf?color=white&label=Resume&logoColor=white)
+[![Visits Badge](https://badges.pufler.dev/visits/AndrewC0128/AndrewC0128)](https://andrewcase.dev/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewcase1/)[![Resume](https://img.shields.io/github/size/AndrewC0128/PersonalWebsiteReact/public/Resume_ACASE.pdf?color=white&label=Resume&logoColor=white)](https://andrewcase.dev/Resume_ACASE.pdf)
 
-Howdy 👋
+Howdy! 👋
 
 I'm Andrew, an incoming Software Developer at Paycom and soon to be graduate of Baylor University. Which is a fancy way of saying: I will help create useful technologies for every part of a company's workforce and I went to school to learn techniques of how to best develop software.
 
@@ -12,11 +12,11 @@ Want to know more about me? [Check out my website.](https://andrewcase.dev/)
 
 <br>
 
-<a href="https://github.com/AndrewC0128/" target="_blank">
+<a href="https://github.com/AndrewC0128/">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewC0128&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </a>
 
-<a href="https://github.com/AndrewC0128" target="_blank">
+<a href="https://github.com/AndrewC0128">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=AndrewC0128&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Andrew's GitHub Stats" />
 </a>
 
