@@ -1,8 +1,6 @@
 [![Andrew's GitHub Banner](./assets/GitHubBanner.gif)](https://andrewcase.dev/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/AndrewC0128/AndrewC0128)](https://andrewcase.dev/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewcase1/) <a href="https://andrewcase.dev/Resume_ACASE.pdf" target="_blank">
-  <img src="https://img.shields.io/github/size/AndrewC0128/PersonalWebsiteReact/public/Resume_ACASE.pdf?color=white&label=Resume&logoColor=white" alt="Andrew's Resume"/>
-</a>
+[![Visits Badge](https://badges.pufler.dev/visits/AndrewC0128/AndrewC0128)](https://andrewcase.dev/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewcase1/) [![Resume Badge](https://img.shields.io/github/size/AndrewC0128/PersonalWebsiteReact/public/Resume_ACASE.pdf?color=white&label=Resume&logoColor=white)](https://andrewcase.dev/Resume_ACASE.pdf)
 
 Howdy! 👋
 
