@@ -4,7 +4,7 @@
 
 Howdy! 👋
 
-I'm Andrew, an incoming Software Developer at Paycom and soon to be graduate of Baylor University. Which is a fancy way of saying: I will help create useful technologies for every part of a company's workforce and I went to school to learn techniques of how to best develop software.
+I'm Andrew, a Software Developer at Paycom and graduate of Baylor University. Which is a fancy way of saying: I will help create useful technologies for every part of a company's workforce and I went to school to learn techniques of how to best develop software.
 
 Want to know more about me? [Check out my website.](https://andrewcase.dev/)
 
