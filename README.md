@@ -4,7 +4,8 @@
 
 Howdy! 👋
 
-I'm Andrew, a Software Developer at Paycom and graduate of Baylor University. Which is a fancy way of saying: I help create useful software improvements for 17,000+ company's payroll and I went to school to learn techniques of how to best develop software and its implementation.
+I'm Andrew, a Full Stack Developer at ExxonMobil and graduate of Baylor University.
+<!-- Which is a fancy way of saying: I help create useful software improvements for 17,000+ company's payroll and I went to school to learn techniques of how to best develop software and its implementation. -->
 <!-- I help create useful technologies for every part of a company's workforce and I went to school to learn techniques of how to best develop software. -->
 
 Want to know more about me? [Check out my website.](https://andrewcase.dev/)
